@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.7
+FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.8.3
 MAINTAINER zq@mrtoad.cc
