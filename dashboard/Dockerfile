@@ -1,1 +1,2 @@
-FROM capttofu/percona_xtradb_cluster_5_6
+FROM severalnines/mariadb:5.6
+
