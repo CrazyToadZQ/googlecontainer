@@ -1,2 +1,2 @@
-FROM severalnines/mariadb:5.6
+FROM severalnines/mariadb
 
