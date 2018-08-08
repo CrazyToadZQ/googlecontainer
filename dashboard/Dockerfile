@@ -1,2 +1,2 @@
-FROM jenkinsci/jnlp-slave:2.52
+FROM quay.io/kubernetes_incubator/nfs-provisioner:latest
 
