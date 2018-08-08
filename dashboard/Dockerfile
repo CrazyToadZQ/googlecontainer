@@ -1,2 +1,2 @@
-FROM registry
+FROM jenkinsci/jenkins
 
