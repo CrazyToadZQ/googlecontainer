@@ -1,2 +1,2 @@
-FROM jenkins/jenkins:2.89.3
+FROM jenkinsci/jnlp-slave:2.52
 
