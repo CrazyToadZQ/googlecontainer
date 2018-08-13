@@ -1,2 +1,2 @@
-FROM webdevops/php-nginx:centos-7-php56
+FROM gitlab/gitlab-ce
 
