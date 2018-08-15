@@ -1,2 +1,2 @@
-FROM gitlab/gitlab-ce
+FROM php:7.2-apache
 
