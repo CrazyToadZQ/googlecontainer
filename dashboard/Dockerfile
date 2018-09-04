@@ -1,2 +1,2 @@
-FROM haha123/zentao
+FROM microsoft/dotnet:runtime
 
