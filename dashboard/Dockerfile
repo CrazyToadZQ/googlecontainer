@@ -1,2 +1,2 @@
-FROM microsoft/dotnet:runtime
+FROM sonatype/nexus3
 
