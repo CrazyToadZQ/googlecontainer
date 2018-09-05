@@ -1,2 +1,2 @@
-FROM sonatype/nexus3
+FROM microsoft/aspnetcore-build
 
