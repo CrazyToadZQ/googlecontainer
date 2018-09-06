@@ -1,2 +1,2 @@
-FROM microsoft/aspnetcore-build
+FROM traefik
 
