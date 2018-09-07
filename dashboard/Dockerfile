@@ -1,2 +1,2 @@
-FROM docker.io/docker
+FROM mariadb
 
