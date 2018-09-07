@@ -1,2 +1,2 @@
-FROM traefik
+FROM docker.io/docker-dev
 
