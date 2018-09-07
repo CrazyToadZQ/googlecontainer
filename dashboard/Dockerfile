@@ -1,2 +1,2 @@
-FROM registry:2
+FROM docker.io/docker
 
