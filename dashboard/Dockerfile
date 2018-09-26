@@ -1,4 +1,4 @@
-FROM dockerregistry.youyun.org.cn:5000/debian:v1.0.0
+FROM debian:stretch-slim
 
 # add our user and group first to make sure their IDs get assigned consistently, regardless of whatever dependencies get added
 RUN groupadd -r mysql && useradd -r -g mysql mysql
