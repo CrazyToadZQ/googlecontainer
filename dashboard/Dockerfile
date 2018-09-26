@@ -1,2 +1,1 @@
-FROM mariadb
-
+FROM debian:stretch-slim
