@@ -1,1 +1,1 @@
-FROM yulibaozi/mysql-master:201807261706
+FROM yulibaozi/mysql-slave:201807261706
