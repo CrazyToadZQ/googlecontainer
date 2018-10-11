@@ -1,1 +1,1 @@
-FROM yulibaozi/mysql-slave:201807261706
+FROM FROM alpine:3.7
