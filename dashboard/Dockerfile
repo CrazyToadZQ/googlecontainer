@@ -1,1 +1,1 @@
-FROM alpine:3.7
+FROM centos:7.2.1511
