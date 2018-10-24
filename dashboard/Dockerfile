@@ -1,1 +1,1 @@
-FROM gitlab/gitlab-ce
+FROM gitlab/gitlab-runner:latest
