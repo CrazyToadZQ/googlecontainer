@@ -1,1 +1,1 @@
-FROM gitlab/gitlab-runner:latest
+FROM microsoft/aspnetcore:2.0
