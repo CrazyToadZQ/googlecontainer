@@ -1,1 +1,1 @@
-FROM docker.io/consul:latest
+FROM microsoft/dotnet:2.1-runtime
