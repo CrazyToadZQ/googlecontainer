@@ -1,1 +1,1 @@
-FROM rancher/server
+FROM rabbitmq:management
