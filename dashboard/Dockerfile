@@ -1,1 +1,1 @@
-FROM microsoft/aspnetcore:2.0
+FROM rancher/server
