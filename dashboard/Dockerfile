@@ -1,1 +1,1 @@
-FROM microsoft/dotnet:2.1-runtime
+FROM microsoft/aspnetcore:2.0
